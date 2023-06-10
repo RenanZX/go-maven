@@ -1,0 +1,4 @@
+github.com/saopayne/gsoup v0.0.0-20180821131814-e4f4ca9aa176 h1:DT09frgO2h6zOVjICjMmtCIH41lOGTUCVihYYnaqLgk=
+github.com/saopayne/gsoup v0.0.0-20180821131814-e4f4ca9aa176/go.mod h1:T4xsQbBDM1KmcwXOJUrJoZucbbM6kF7xW//rmryxR5c=
+golang.org/x/net v0.10.0 h1:X2//UzNDwYmtCLn7To6G58Wr6f5ahEAQgKNzv9Y951M=
+golang.org/x/net v0.10.0/go.mod h1:0qNGK6F8kojg2nk9dLZ2mShWaEBan6FAoqfSigmmuDg=
