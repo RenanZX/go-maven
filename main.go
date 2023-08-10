@@ -150,7 +150,7 @@ func writePom(c Config, IncludePackages AccList) {
 			writeln(file, "  					      <goal>install-file</goal>")
 			writeln(file, "  					    </goals>")
 			writeln(file, "  					    <configuration>")
-			writeln(file, "  					      <file>${local.lib}/"+libchecker.FilterString(Pack)+".jar")
+			writeln(file, "  					      <file>${local.lib}/"+libchecker.FilterString(Pack)+".jar</file>")
 			writeln(file, "  					      <groupId>"+libchecker.FilterString(Pack)+"</groupId>")
 			writeln(file, "  					      <artifactId>"+libchecker.FilterString(Pack)+"</artifactId>")
 			writeln(file, "  					      <version>1.0</version>")
